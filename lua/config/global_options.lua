@@ -1,4 +1,4 @@
 local g = vim.g
 
-g.autoformat = true
+g.autoformat = false
 g.mapleader = " "
